@@ -1,5 +1,6 @@
 # Automated-Extraction-Of-Blood-Components-From-Blood-Smear-Microscopic-Images
  Programming Language: Python 2.7 <br />
+ Libraried Used: TKinter, PIL, skimage, skfuzzy  <br />
  Technologies: Image Processing <br />
  Software Used: Anaconda Navigator <br />
  Project Type: Desktop Application <br />
